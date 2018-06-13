@@ -1,0 +1,242 @@
+{
+  "강남구":
+  {
+    "coords": {
+      "lat": 37.49,
+      "lng": 127.1
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010227&cctvName=227%2520%25EC%2588%2598%25EC%2584%259CIC&kind=Seoul&cctvip=104&cctvch=44&id=176&cctvpasswd=1&cctvport=null",
+    "object": "<object id='mov' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='320' height='240'><param name='bgcolor' value='#000000'><param name='movie' value='http://www.utic.go.kr/contents/js/img/smpa_player.swf'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='wmode' value='none'><param name='flashvars' value='file=176.stream&amp;streamer=rtmp://61.108.209.104:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111'><embed src='http://its.pyeongtaek.go.kr/js/player/player.swf' width='320' height='240' name='movie' flashvars='file=176.stream&amp;streamer=rtmp://61.108.209.104/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png' style='border:0px solid #c5d6ff' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'></object>"
+  }
+,
+  "강동구":  {
+    "coords": {
+      "lat": 37.57,
+      "lng": 127.17
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=E912310&cctvName=%255B%25EC%2584%259C%25EC%259A%25B8%25EC%2599%25B8%25EA%25B3%25BD%25EC%2584%25A0%255D%2520%25EA%25B0%2595%25EC%259D%25BCIC&kind=Z3&cctvip=null&cctvch=null&id=10/VVSS8truOb6pBRRDveDgmLbs1GxYaLKLfsQfS5rlweDGDkmI04RPch0ph91/xyh7&cctvpasswd=null&cctvport=null",
+    "object": "<video src=‘http://cctvsec.ktict.co.kr/10/VVSS8truOb6pBRRDveDgmLbs1GxYaLKLfsQfS5rlweDGDkmI04RPch0ph91/xyh7’ controls=‘‘ muted=‘‘ autoplay=‘‘ poster=‘movie’></video>"
+  }
+,
+  "송파구":  {
+    "coords": {
+      "lat": 37.57,
+      "lng": 126.9
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010004&cctvName=004%2520%25EC%259B%2594%25EB%2593%259C%25EC%25BB%25B5%25EC%25A0%2595%25EB%25AC%25B8&kind=Seoul&cctvip=102&cctvch=42&id=6&cctvpasswd=1&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=6.stream&amp;streamer=rtmp://61.108.209.102/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  }
+,
+  "광진구": {
+    "coords": {
+      "lat": 37.53,
+      "lng": 127.1
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010203&cctvName=203%2520%25ED%2585%258C%25ED%2581%25AC%25EB%2585%25B8%25EB%25A7%2588%25ED%258A%25B8&kind=Seoul&cctvip=102&cctvch=42&id=154&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=154.stream&amp;streamer=rtmp://61.108.209.102/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+  "중랑구": {
+    "coords": {
+      "lat": 37.616652,
+      "lng": 127.07209
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010120&cctvName=120%2520%25EC%259B%2594%25EB%25A6%2589%25EA%25B5%2590&kind=Seoul&cctvip=101&cctvch=41&id=102&cctvpasswd=1&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=102.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+  "노원구": {
+    "coords": {
+      "lat": 37.65285,
+      "lng": 127.055028
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010115&cctvName=115%2520%25EC%25B0%25BD%25EB%258F%2599%25EA%25B5%2590&kind=Seoul&cctvip=104&cctvch=44&id=99&cctvpasswd=1&cctvport=null",
+    "object": "<object id=‘mov’ classid=‘clsid:D27CDB6E-AE6D-11cf-96B8-444553540000’ codebase=‘http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0’ width=‘320’ height=‘240’><param name=‘bgcolor’ value=‘#000000’><param name=‘movie’ value=‘http://www.utic.go.kr/contents/js/img/smpa_player.swf’><param name=‘allowfullscreen’ value=‘true’><param name=‘allowscriptaccess’ value=‘always’><param name=‘wmode’ value=‘none’><param name=‘flashvars’ value=‘file=99.stream&amp;streamer=rtmp://61.108.209.104:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111’><embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=99.stream&amp;streamer=rtmp://61.108.209.104/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’></object>"
+  },
+  "도봉구": {
+    "coords": {
+      "lat": 37.66,
+      "lng": 127.04
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010145&cctvName=145%2520%25EB%25B0%25A9%25ED%2595%2599%25EC%2582%25AC%25EA%25B1%25B0%25EB%25A6%25AC&kind=Seoul&cctvip=104&cctvch=44&id=117&cctvpasswd=1&cctvport=null",
+    "object": "<object id=‘mov’ classid=‘clsid:D27CDB6E-AE6D-11cf-96B8-444553540000’ codebase=‘http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0’ width=‘320’ height=‘240’><param name=‘bgcolor’ value=‘#000000’><param name=‘movie’ value=‘http://www.utic.go.kr/contents/js/img/smpa_player.swf’><param name=‘allowfullscreen’ value=‘true’><param name=‘allowscriptaccess’ value=‘always’><param name=‘wmode’ value=‘none’><param name=‘flashvars’ value=‘file=117.stream&amp;streamer=rtmp://61.108.209.104:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111’><embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=117.stream&amp;streamer=rtmp://61.108.209.104/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’></object>"
+  },
+
+  "강북구": {
+    "coords": {
+      "lat": 37.635835,
+      "lng": 127.02303
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010143&cctvName=143%2520%25EB%25B2%2588%25EB%258F%2599R&kind=Seoul&cctvip=106&cctvch=46&id=253&cctvpasswd=2&cctvport=null",
+    "object": "<object id='mov' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='320' height='240'><param name='bgcolor' value='#000000'><param name='movie' value='http://www.utic.go.kr/contents/js/img/smpa_player.swf'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='wmode' value='none'><param name='flashvars' value='file=253.stream&amp;streamer=rtmp://61.108.209.106:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111'><embed src='http://its.pyeongtaek.go.kr/js/player/player.swf' width='320' height='240' name='movie' flashvars='file=253.stream&amp;streamer=rtmp://61.108.209.106/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png' style='border:0px solid #c5d6ff' type='application/x-shockwave-flash' pluginspage=‘http://www.macromedia.com/go/getflashplayer'></object>"
+
+  },
+
+  "성북구": {
+    "coords": {
+      "lat": 37.59,
+      "lng": 127.03
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010148&cctvName=148%2520%25EA%25B3%25A0%25EB%25A0%25A4%25EB%258C%2580&kind=Seoul&cctvip=104&cctvch=44&id=119&cctvpasswd=2&cctvport=null",
+    "object": "<object id=‘mov’ classid=‘clsid:D27CDB6E-AE6D-11cf-96B8-444553540000’ codebase=‘http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0’ width=‘320’ height=‘240’><param name=‘bgcolor’ value=‘#000000’><param name=‘movie’ value=‘http://www.utic.go.kr/contents/js/img/smpa_player.swf’><param name=‘allowfullscreen’ value=‘true’><param name=‘allowscriptaccess’ value=‘always’><param name=‘wmode’ value=‘none’><param name=‘flashvars’ value=‘file=119.stream&amp;streamer=rtmp://61.108.209.104:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111’><embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=119.stream&amp;streamer=rtmp://61.108.209.104/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’></object>"
+  },
+  "동대문구": {
+    "coords": {
+      "lat": 37.59,
+      "lng": 127.07
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010121&cctvName=121%2520%25EC%25A4%2591%25EB%259E%2591%25EA%25B5%2590&kind=Seoul&cctvip=104&cctvch=44&id=103&cctvpasswd=2&cctvport=null",
+    "object": "<object id=‘mov’ classid=‘clsid:D27CDB6E-AE6D-11cf-96B8-444553540000’ codebase=‘http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0’ width=‘320’ height=‘240’><param name=‘bgcolor’ value=‘#000000’><param name=‘movie’ value=‘http://www.utic.go.kr/contents/js/img/smpa_player.swf’><param name=‘allowfullscreen’ value=‘true’><param name=‘allowscriptaccess’ value=‘always’><param name=‘wmode’ value=‘none’><param name=‘flashvars’ value=‘file=103.stream&amp;streamer=rtmp://61.108.209.104:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111’><embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=103.stream&amp;streamer=rtmp://61.108.209.104/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’></object>"
+  },
+
+  "성동구": {
+    "coords": {
+      "lat": 37.55,
+      "lng": 127.04
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=E04041&cctvName=%25EC%2584%25B1%25EB%258F%2599%25EA%25B5%2590&kind=A&cctvip=178&cctvch=null&id=2&cctvpasswd=null&cctvport=218",
+    "object": "<object id=‘axPlayer’ classid=‘CLSID:{384E1771-63B6-4D1B-9A00-F55E691107E0}’ width=‘320’ height=‘240’ codebase=‘http://www.utic.go.kr/contents/js/AcesTechXPlayer2.cab#version=2.2.3.4’></object>"
+  },
+  "서초구":  {
+    "coords": {
+      "lat": 37.48,
+      "lng": 127.01
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010052&cctvName=052%2520%25EA%25B5%25AD%25EB%25A6%25BD%25EA%25B5%25AD%25EC%2595%2585%25EC%259B%2590&kind=Seoul&cctvip=101&cctvch=41&id=39&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=39.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  }
+,
+  "동작구":  {
+    "coords": {
+      "lat": 37.51,
+      "lng": 126.95
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010081&cctvName=081%2520%25ED%2595%259C%25EA%25B0%2595%25EB%258C%2580%25EA%25B5%2590%25EB%2582%25A8%25EB%258B%25A8&kind=Seoul&cctvip=101&cctvch=41&id=237&cctvpasswd=1&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=237.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  }
+,
+  "관악구": {
+    "coords": {
+      "lat": 37.48076,
+      "lng": 126.95307
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010072&cctvName=072%2520%25EC%2584%259C%25EC%259A%25B8%25EB%258C%2580%25EC%259E%2585%25EA%25B5%25ACR&kind=Seoul&cctvip=103&cctvch=43&id=56&cctvpasswd=1&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=56.stream&amp;streamer=rtmp://61.108.209.103/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+  "구로구": {
+    "coords": {
+      "lat": 37.5,
+      "lng": 126.97
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010023&cctvName=023%2520%25EA%25B3%25A0%25EC%25B2%2599%25EA%25B5%2590&kind=Seoul&cctvip=102&cctvch=42&id=14&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=14.stream&amp;streamer=rtmp://61.108.209.102/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+
+  "금천구": {
+    "coords": {
+      "lat": 37.47,
+      "lng": 126.9
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=E910213&cctvName=%255B%25EA%25B2%25BD%25EB%25B6%2580%25EC%2584%25A0%255D%2520%25EA%25B4%2591%25EB%25AA%2585&kind=Z3&cctvip=null&cctvch=null&id=2053/lWdX4wl9Ma/6yjt9EArZwc%2BRfOwGndBbAaOv7%2BBBVzmWa2n41yL6eQKQ0peakgt1&cctvpasswd=null&cctvport=null",
+    "object": "<video src='http://cctvsec.ktict.co.kr/2053/lWdX4wl9Ma/6yjt9EArZwc+RfOwGndBbAaOv7+BBVzmWa2n41yL6eQKQ0peakgt1' controls='' muted='' autoplay='' poster='movie'></video>"
+  },
+  "양천구": {
+    "coords": {
+      "lat": 37.52,
+      "lng": 126.85
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010099&cctvName=099%2520%25EC%258B%25A0%25EC%25A0%2595%25EC%2597%25AD&kind=Seoul&cctvip=105&cctvch=45&id=240&cctvpasswd=1&cctvport=null",
+    "object": "<object id='mov' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='320' height='240'><param name='bgcolor' value='#000000'><param name='movie' value='http://www.utic.go.kr/contents/js/img/smpa_player.swf'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='wmode' value='none'><param name='flashvars' value='file=240.stream&amp;streamer=rtmp://61.108.209.105:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111'><embed src='http://its.pyeongtaek.go.kr/js/player/player.swf' width='320' height='240' name='movie' flashvars='file=240.stream&amp;streamer=rtmp://61.108.209.105/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png' style='border:0px solid #c5d6ff' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'></object>"
+  },
+  "영등포구":  {
+    "coords": {
+      "lat": 37.55,
+      "lng": 126.89
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010020&cctvName=020%2520%25EC%2584%25B1%25EC%2582%25B0%25EB%258C%2580%25EA%25B5%2590%25EB%2582%25A8%25EB%258B%25A8&kind=Seoul&cctvip=101&cctvch=41&id=17&cctvpasswd=2&cctvport=null",
+    "object": "<object id='mov' classid='clsid:D27CDB6E-AE6D-11cf-96B8-444553540000' codebase='http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0' width='320' height='240'><param name='bgcolor' value='#000000'><param name='movie' value='http://www.utic.go.kr/contents/js/img/smpa_player.swf'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='wmode' value='none'><param name='flashvars' value='file=17.stream&amp;streamer=rtmp://61.108.209.101:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111'><embed src='http://its.pyeongtaek.go.kr/js/player/player.swf' width='320' height='240' name='movie' flashvars='file=17.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png' style='border:0px solid #c5d6ff' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'></object>"
+  }
+,
+  "강서구":  {
+    "coords": {
+      "lat": 37.59,
+      "lng": 126.8
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L901575&cctvName=%25ED%2596%2589%25EC%25A3%25BC%25EB%258C%2580%25EA%25B5%2590%25EB%2582%25A8%25EB%258B%25A8&kind=EE&cctvip=null&cctvch=null&id=4Ti1BdbR6j2vJPYCnFfHRlj1JCSdFU0pGwk2jJT62RtLr6kulvR0FUgylgcwFPM&cctvpasswd=null&cctvport=6262",
+    "object": "<object type='application/x-shockwave-flash' data='/common/js/jwplayer/player.swf' width='400' height='345' bgcolor='#000000' id='players' name='players'><param name='allowfullscreen' value='true'><param name='allowscriptaccess' value='always'><param name='seamlesstabbing' value='true'><param name='wmode' value='opaque'><param name='flashvars' value='netstreambasepath=http%3A%2F%2Fgits.gg.go.kr%2Fweb%2Fpopup%2FwebCctvPopup.do%3FcctvId%3D6262&amp;id=players&amp;className=thumb&amp;flashplayer=%2Fcommon%2Fjs%2Fjwplayer%2Fplayer.swf&amp;streamer=http%3A%2F%2Fcctvsec.ktict.co.kr%2F6262%2F%2F4Ti1BdbR6j2vJPYCnFfHeN2JobJgSeMo5dzJ5yqzxBn8C3F71Bjg7OmyuaTzUpH&amp;file=http%3A%2F%2Fcctvsec.ktict.co.kr%2F6262%2F%2F4Ti1BdbR6j2vJPYCnFfHeN2JobJgSeMo5dzJ5yqzxBn8C3F71Bjg7OmyuaTzUpH&amp;image=%2Fcommon%2Fimg%2Fsub%2FcctvAdd.png&amp;autostart=true&amp;stretching=fill&amp;mute=false&amp;volume=0&amp;controlbar.position=over&amp;display.icons=false'></object>"
+  }
+,
+  "마포구":  {
+    "coords": {
+      "lat": 37.56,
+      "lng": 126.89
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010019&cctvName=019%2520%25EC%2584%25B1%25EC%2582%25B0%25EB%258C%2580%25EA%25B5%2590%25EB%25B6%2581%25EB%258B%25A8&kind=Seoul&cctvip=101&cctvch=41&id=18&cctvpasswd=1&cctvport=null",
+    "object": "<embed src='http://its.pyeongtaek.go.kr/js/player/player.swf' width='320' height='240' name='movie' flashvars='file=18.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png' style='border:0px solid #c5d6ff' type='application/x-shockwave-flash' pluginspage='http://www.macromedia.com/go/getflashplayer'>"
+  }
+,
+  "용산구": {
+    "coords": {
+      "lat": 37.54,
+      "lng": 127
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010189&cctvName=189%2520%25EB%25B6%2581%25ED%2595%259C%25EB%2582%25A8&kind=Seoul&cctvip=101&cctvch=41&id=145&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=145.stream&amp;streamer=rtmp://61.108.209.101/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+  "중구": {
+    "coords": {
+      "lat": 37.56,
+      "lng": 126.99
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010173&cctvName=173%2520%25ED%2587%25B4%25EA%25B3%25842%25EA%25B0%2580&kind=Seoul&cctvip=105&cctvch=45&id=136&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=136.stream&amp;streamer=rtmp://61.108.209.105/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  }
+,
+  "서대문구": {
+    "coords": {
+      "lat": 37.55971,
+      "lng": 126.93466
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010016&cctvName=016%2520%25EC%2597%25B0%25EC%2584%25B8%25EB%258C%2580&kind=Seoul&cctvip=102&cctvch=42&id=20&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=20.stream&amp;streamer=rtmp://61.108.209.102/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  },
+  "은평구": {
+    "coords": {
+      "lat": 37.63894,
+      "lng": 126.91692
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010010&cctvName=010%2520%25EA%25B5%25AC%25ED%258C%258C%25EB%25B0%259C&kind=Seoul&cctvip=102&cctvch=42&id=9&cctvpasswd=1&cctvport=null",
+    "object": "<object id=‘mov’ classid=‘clsid:D27CDB6E-AE6D-11cf-96B8-444553540000’ codebase=‘http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=9,0,0,0’ width=‘320’ height=‘240’><param name=‘bgcolor’ value=‘#000000’><param name=‘movie’ value=‘http://www.utic.go.kr/contents/js/img/smpa_player.swf’><param name=‘allowfullscreen’ value=‘true’><param name=‘allowscriptaccess’ value=‘always’><param name=‘wmode’ value=‘none’><param name=‘flashvars’ value=‘file=9.stream&amp;streamer=rtmp://61.108.209.102:1935/live&amp;bufferlength=3&amp;autostart=true&amp;stretching=exactfit&amp;fullscreen=true&amp;image=http://www.utic.go.kr/contents/js/img/320240-5.gif&amp;skin=http://www.utic.go.kr/contents/js/img/skin_black30live.swf&amp;frontcolor=FFFFFF&amp;lightcolor=00AEEF&amp;backcolor=111111’><embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=9.stream&amp;streamer=rtmp://61.108.209.102/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’></object>"
+  },
+  "종로구":  {
+    "coords": {
+      "lat": 37.57,
+      "lng": 126.98
+    },
+    "iconImage": "marker_cctv3.png",
+    "content": "http://www.utic.go.kr/view/map/openDataCctvStream.jsp?key=4mAu4fek2UVNlbgabe1fN1kiA2fgDQ3X8OCncx9Pu5mMyFDc3LDdXTOa869qs&cctvid=L010061&cctvName=061%2520%25EC%2584%25B8%25EC%25A2%2585%25EB%25A1%259CR&kind=Seoul&cctvip=103&cctvch=43&id=47&cctvpasswd=2&cctvport=null",
+    "object": "<embed src=‘http://its.pyeongtaek.go.kr/js/player/player.swf’ width=‘320’ height=‘240’ name=‘movie’ flashvars=‘file=47.stream&amp;streamer=rtmp://61.108.209.103/live/&amp;controlbar=none&amp;autostart=true&amp;stretching=exactfit&amp;duration=&amp;image=play.png’ style=‘border:0px solid #c5d6ff’ type=‘application/x-shockwave-flash’ pluginspage=‘http://www.macromedia.com/go/getflashplayer’>"
+  }
+}
