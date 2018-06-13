@@ -1,0 +1,144 @@
+//    public Object bstDelete(int k){
+//        RedBlackNode parent = null;
+//        RedBlackNode cur = this.root;
+//
+//        while(cur!=null){
+//            parent = cur;
+//            if(k < cur.key)
+//                cur = cur.left;
+//            else if(k > cur.key)
+//                cur = cur.right;
+//            else
+//                break;
+//        }
+//        RedBlackNode out = cur;
+//        boolean lChild = hasLeftChild(cur);
+//        boolean rChild = hasRightChild(cur);
+//
+//        // case 1: node has no left child
+//        if(!lChild && rChild){
+//            if(cur.keyEquals(root)){
+//                root = cur.right;
+//                cur.right.parent = null;
+//            } else{
+//                if(cur.parent.left.keyEquals(cur)){
+//                    cur.right.parent = cur.parent;
+//                    cur.parent.left = cur.right;
+//                } else{
+//                    cur.right.parent = cur.parent;
+//                    cur.parent.right = cur.right;
+//                }
+//            }
+//
+//        } else if(lChild && !rChild){ // case 2: node has no right child
+//            if(cur == root){
+//                root = cur.left;
+//                cur.left.parent = null;
+//            } else{
+//                if(cur.parent.left.keyEquals(cur)){
+//                    cur.left.parent = cur.parent;
+//                    cur.parent.left = cur.left;
+//                } else{
+//                    cur.left.parent = cur.parent;
+//                    cur.parent.right = cur.left;
+//                }
+//            }
+//        } else if(lChild && rChild){
+//            // case 3: node has two children and successor is left child
+//            if(cur.left.right == null){
+//                cur.key = cur.left.key;
+//                cur.payload = cur.left.payload;
+//                cur.red = cur.left.red;
+//                cur.left = cur.left.left;
+//                if(cur.left!=null)
+//                    cur.left.parent = cur;
+//
+//            } else {
+//                RedBlackNode toReplace = cur.left;
+//                while(true){
+//                    if(toReplace.right == null)
+//                        break;
+//                    toReplace = toReplace.right;
+//                }
+//                cur.key = toReplace.key;
+//                cur.payload = toReplace.payload;
+//                cur.red = toReplace.red;
+//                toReplace.parent.right = toReplace.left;
+//                //triangle case
+//                if(toReplace.left!=null)
+//                    toReplace.left.parent = toReplace.parent;
+//            }
+//            // case 4: node has two children and successor is left-right-max child
+//
+//
+//        } else {
+//            if(cur.parent.left.keyEquals(cur))
+//                cur.parent.left = null;
+//            else
+//                cur.parent.right = null;
+//        }
+//
+//        return true;
+//
+//    }
+
+
+
+    public void fixDelete(RedBlackNode x){
+        while(x!=root && !x.red) {
+            if (x == x.parent.left) {
+                RedBlackNode w = x.parent.right;
+                if (w.red) {
+                    w.red = false;
+                    x.parent.red = true;
+                    leftRotateAt(x.parent);
+                    w = x.parent.right;
+                }
+                if (!w.left.red && !w.right.red) {
+                    w.red = true;
+                    x = x.parent;
+                    continue;
+                }
+                if (!w.right.red) {
+                    w.left.red = false;
+                    w.red = true;
+                    rightRotateAt(w);
+                    w = x.parent.right;
+                }
+                if (w.right.red) {
+                    w.red = x.parent.red;
+                    x.parent.red = false;
+                    w.right.red = false;
+                    leftRotateAt(x.parent);
+                    x = root;
+                }
+            } else{
+                RedBlackNode w = x.parent.left;
+                if (w.red) {
+                    w.red = false;
+                    x.parent.red = true;
+                    rightRotateAt(x.parent);
+                    w = x.parent.left;
+                }
+                if (!w.left.red && !w.right.red) {
+                    w.red = true;
+                    x = x.parent;
+                    continue;
+                }
+                if (!w.left.red) {
+                    w.right.red = false;
+                    w.red = true;
+                    leftRotateAt(w);
+                    w = x.parent.left;
+                }
+                if (w.left.red) {
+                    w.red = x.parent.red;
+                    x.parent.red = false;
+                    w.left.red = false;
+                    rightRotateAt(x.parent);
+                    x = root;
+                }
+            }
+        }
+        x.red = false;
+    }
